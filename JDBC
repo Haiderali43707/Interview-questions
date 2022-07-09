@@ -1,0 +1,3 @@
+JDBC(Java Database Connectivity) is a Java API, which is helpful in interaction with the database to retrieve, manipulate and process the data using SQL. It will make use of JDBC drivers for connecting with the database. By using JDBC, we can access tabular data stored in various types of relational databases such as Oracle, MySQL, MS Access, etc.
+ What is ResultSet???
+ The java.sql.ResultSet interface represents the database result set, which is obtained after the execution of SQL query using Statement objects.
